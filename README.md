@@ -16,6 +16,7 @@ Edits a few Heartless colors to how I like them. Most of them use their original
 - Air Pirate: Wings are changed to the original PS2 colors, the rest uses Final Mix colors
 - Wyvern: Original PS2 colors
 - Behemoth: Original PS2 colors
+
 - Guard Armor/Opposite Armor: Original PS2 colors
 - Red Armor (from Olympus Coliseum): Uses the Final Mix colors of the Guard Armor.
 - Trickmaster: Original PS2 colors

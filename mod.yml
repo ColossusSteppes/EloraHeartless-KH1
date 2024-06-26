@@ -1,0 +1,1710 @@
+title: Elora's KH1 Heartless Colors
+originalAuthor: ColossusSteppes
+description: Edits a few Heartless colors to how I like them. Uses DaniKH1's mod as a base.
+game: kh1
+dependencies: 
+assets:
+- name: remastered\xa_ex_2160.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2160.mdls\-1c0.dds
+- name: remastered\xa_ex_2160.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2160.mdls\-1c1.dds
+- name: remastered\xa_ex_2160.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2160.mdls\-1c2.dds
+- name: remastered\xa_ex_2160.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2160.mdls\-1c3.dds
+- name: remastered\xa_ex_2160.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2160.mdls\-1c4.dds
+- name: remastered\xa_ex_2160.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2160.mdls\-1c5.dds
+- name: remastered\xa_ex_2169.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2169.mdls\-1c0.dds
+- name: remastered\xa_ex_2169.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2169.mdls\-1c1.dds
+- name: remastered\xa_ex_2169.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2169.mdls\-1c2.dds
+- name: remastered\xa_ex_2169.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2169.mdls\-1c3.dds
+- name: remastered\xa_ex_2169.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2169.mdls\-1c4.dds
+- name: remastered\xa_ex_2169.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2169.mdls\-1c5.dds
+- name: remastered\xa_ex_2200.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2200.mdls\-1c0.dds
+- name: remastered\xa_ex_2200.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2200.mdls\-1c1.dds
+- name: remastered\xa_ex_2200.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2200.mdls\-1c2.dds
+- name: remastered\xa_ex_2200.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2200.mdls\-1c3.dds
+- name: remastered\xa_ex_2200.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2200.mdls\-1c4.dds
+- name: remastered\xa_ex_2200.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2200.mdls\-1c5.dds
+- name: remastered\xa_ex_2210.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2210.mdls\-1c0.dds
+- name: remastered\xa_ex_2210.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2210.mdls\-1c1.dds
+- name: remastered\xa_ex_2210.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2210.mdls\-1c2.dds
+- name: remastered\xa_ex_2210.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2210.mdls\-1c3.dds
+- name: remastered\xa_ex_2210.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2210.mdls\-1c4.dds
+- name: remastered\xa_ex_2210.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2210.mdls\-1c5.dds
+- name: remastered\xa_ex_2210.mdls\-3b900.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2210.mdls\-3b900.dds
+- name: remastered\xa_ex_2219.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2219.mdls\-1c0.dds
+- name: remastered\xa_ex_2219.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2219.mdls\-1c1.dds
+- name: remastered\xa_ex_2219.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2219.mdls\-1c2.dds
+- name: remastered\xa_ex_2219.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2219.mdls\-1c3.dds
+- name: remastered\xa_ex_2219.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2219.mdls\-1c4.dds
+- name: remastered\xa_ex_2219.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2219.mdls\-1c5.dds
+- name: remastered\xa_ex_2220.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2220.mdls\-1c0.dds
+- name: remastered\xa_ex_2220.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2220.mdls\-1c1.dds
+- name: remastered\xa_ex_2220.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2220.mdls\-1c2.dds
+- name: remastered\xa_ex_2220.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2220.mdls\-1c3.dds
+- name: remastered\xa_ex_2220.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2220.mdls\-1c4.dds
+- name: remastered\xa_ex_2220.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2220.mdls\-1c5.dds
+- name: remastered\xa_ex_2221.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2221.mdls\-1c0.dds
+- name: remastered\xa_ex_2221.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2221.mdls\-1c1.dds
+- name: remastered\xa_ex_2221.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2221.mdls\-1c2.dds
+- name: remastered\xa_ex_2221.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2221.mdls\-1c3.dds
+- name: remastered\xa_ex_2221.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2221.mdls\-1c4.dds
+- name: remastered\xa_ex_2221.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2221.mdls\-1c5.dds
+- name: remastered\xa_ex_2229.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2229.mdls\-1c0.dds
+- name: remastered\xa_ex_2229.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2229.mdls\-1c1.dds
+- name: remastered\xa_ex_2229.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2229.mdls\-1c2.dds
+- name: remastered\xa_ex_2229.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2229.mdls\-1c3.dds
+- name: remastered\xa_ex_2229.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2229.mdls\-1c4.dds
+- name: remastered\xa_ex_2229.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2229.mdls\-1c5.dds
+- name: remastered\xa_ex_2240.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2240.mdls\-1c0.dds
+- name: remastered\xa_ex_2240.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2240.mdls\-1c1.dds
+- name: remastered\xa_ex_2240.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2240.mdls\-1c2.dds
+- name: remastered\xa_ex_2240.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2240.mdls\-1c3.dds
+- name: remastered\xa_ex_2240.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2240.mdls\-1c4.dds
+- name: remastered\xa_ex_2240.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2240.mdls\-1c5.dds
+- name: remastered\xa_ex_2240.mdls\-1c6.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2240.mdls\-1c6.dds
+- name: remastered\xa_ex_2240.mdls\-1c7.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2240.mdls\-1c7.dds
+- name: remastered\xa_ex_2240.mdls\-1c8.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2240.mdls\-1c8.dds
+- name: remastered\xa_ex_2240.mdls\-1c9.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2240.mdls\-1c9.dds
+- name: remastered\xa_ex_2249.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2249.mdls\-1c0.dds
+- name: remastered\xa_ex_2249.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2249.mdls\-1c1.dds
+- name: remastered\xa_ex_2249.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2249.mdls\-1c2.dds
+- name: remastered\xa_ex_2249.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2249.mdls\-1c3.dds
+- name: remastered\xa_ex_2249.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2249.mdls\-1c4.dds
+- name: remastered\xa_ex_2249.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2249.mdls\-1c5.dds
+- name: remastered\xa_ex_2249.mdls\-1c6.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2249.mdls\-1c6.dds
+- name: remastered\xa_ex_2249.mdls\-1c7.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2249.mdls\-1c7.dds
+- name: remastered\xa_ex_2249.mdls\-1c8.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2249.mdls\-1c8.dds
+- name: remastered\xa_ex_2249.mdls\-1c9.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2249.mdls\-1c9.dds
+- name: remastered\xa_ex_2310.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2310.mdls\-1c0.dds
+- name: remastered\xa_ex_2310.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2310.mdls\-1c1.dds
+- name: remastered\xa_ex_2310.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2310.mdls\-1c2.dds
+- name: remastered\xa_ex_2310.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2310.mdls\-1c3.dds
+- name: remastered\xa_ex_2310.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2310.mdls\-1c4.dds
+- name: remastered\xa_ex_2310.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2310.mdls\-1c5.dds
+- name: remastered\xa_ex_2310.mdls\-1c6.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2310.mdls\-1c6.dds
+- name: remastered\xa_ex_2310.mdls\-1c7.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2310.mdls\-1c7.dds
+- name: remastered\xa_ex_2310.mdls\-1c8.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2310.mdls\-1c8.dds
+- name: remastered\xa_ex_2310.mdls\-1c9.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2310.mdls\-1c9.dds
+- name: remastered\xa_ex_2319.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2319.mdls\-1c0.dds
+- name: remastered\xa_ex_2319.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2319.mdls\-1c1.dds
+- name: remastered\xa_ex_2319.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2319.mdls\-1c2.dds
+- name: remastered\xa_ex_2319.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2319.mdls\-1c3.dds
+- name: remastered\xa_ex_2319.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2319.mdls\-1c4.dds
+- name: remastered\xa_ex_2319.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2319.mdls\-1c5.dds
+- name: remastered\xa_ex_2319.mdls\-1c6.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2319.mdls\-1c6.dds
+- name: remastered\xa_ex_2319.mdls\-1c7.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2319.mdls\-1c7.dds
+- name: remastered\xa_ex_2319.mdls\-1c8.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2319.mdls\-1c8.dds
+- name: remastered\xa_ex_2319.mdls\-1c9.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2319.mdls\-1c9.dds
+- name: remastered\xa_ex_2320.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2320.mdls\-1c0.dds
+- name: remastered\xa_ex_2320.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2320.mdls\-1c1.dds
+- name: remastered\xa_ex_2320.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2320.mdls\-1c2.dds
+- name: remastered\xa_ex_2320.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2320.mdls\-1c3.dds
+- name: remastered\xa_ex_2320.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2320.mdls\-1c4.dds
+- name: remastered\xa_ex_2320.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2320.mdls\-1c5.dds
+- name: remastered\xa_ex_2329.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2329.mdls\-1c0.dds
+- name: remastered\xa_ex_2329.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2329.mdls\-1c1.dds
+- name: remastered\xa_ex_2329.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2329.mdls\-1c2.dds
+- name: remastered\xa_ex_2329.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2329.mdls\-1c3.dds
+- name: remastered\xa_ex_2329.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2329.mdls\-1c4.dds
+- name: remastered\xa_ex_2329.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_ex_2329.mdls\-1c5.dds
+- name: remastered\xa_pi_3000.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1c0.dds
+- name: remastered\xa_pi_3000.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1c1.dds
+- name: remastered\xa_pi_3000.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1c2.dds
+- name: remastered\xa_pi_3000.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1c3.dds
+- name: remastered\xa_pi_3000.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1c4.dds
+- name: remastered\xa_pi_3000.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1c5.dds
+- name: remastered\xa_pi_3000.mdls\-1c6.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1c6.dds
+- name: remastered\xa_pi_3000.mdls\-1c7.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1c7.dds
+- name: remastered\xa_pi_3000.mdls\-1c8.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1c8.dds
+- name: remastered\xa_pi_3000.mdls\-1c9.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1c9.dds
+- name: remastered\xa_pi_3000.mdls\-1ca.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1ca.dds
+- name: remastered\xa_pi_3000.mdls\-1cb.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1cb.dds
+- name: remastered\xa_pi_3000.mdls\-1cc.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3000.mdls\-1cc.dds
+- name: remastered\xa_pi_3009.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1c0.dds
+- name: remastered\xa_pi_3009.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1c1.dds
+- name: remastered\xa_pi_3009.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1c2.dds
+- name: remastered\xa_pi_3009.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1c3.dds
+- name: remastered\xa_pi_3009.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1c4.dds
+- name: remastered\xa_pi_3009.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1c5.dds
+- name: remastered\xa_pi_3009.mdls\-1c6.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1c6.dds
+- name: remastered\xa_pi_3009.mdls\-1c7.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1c7.dds
+- name: remastered\xa_pi_3009.mdls\-1c8.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1c8.dds
+- name: remastered\xa_pi_3009.mdls\-1c9.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1c9.dds
+- name: remastered\xa_pi_3009.mdls\-1ca.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1ca.dds
+- name: remastered\xa_pi_3009.mdls\-1cb.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1cb.dds
+- name: remastered\xa_pi_3009.mdls\-1cc.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_pi_3009.mdls\-1cc.dds
+- name: remastered\xa_tw_3000.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3000.mdls\-1c0.dds
+- name: remastered\xa_tw_3000.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3000.mdls\-1c1.dds
+- name: remastered\xa_tw_3009.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3009.mdls\-1c0.dds
+- name: remastered\xa_tw_3009.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3009.mdls\-1c1.dds
+- name: remastered\xa_tw_3010.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3010.mdls\-1c0.dds
+- name: remastered\xa_tw_3010.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3010.mdls\-1c1.dds
+- name: remastered\xa_tw_3019.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3019.mdls\-1c0.dds
+- name: remastered\xa_tw_3019.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3019.mdls\-1c1.dds
+- name: remastered\xa_tw_3020.mdls\-1c0.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-1c0.DDS
+- name: remastered\xa_tw_3020.mdls\-1c1.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-1c1.DDS
+- name: remastered\xa_tw_3020.mdls\-1c2.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-1c2.DDS
+- name: remastered\xa_tw_3020.mdls\-1c3.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-1c3.DDS
+- name: remastered\xa_tw_3020.mdls\-1c4.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-1c4.DDS
+- name: remastered\xa_tw_3020.mdls\-1c5.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-1c5.DDS
+- name: remastered\xa_tw_3020.mdls\-1c6.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-1c6.DDS
+- name: remastered\xa_tw_3020.mdls\-1c7.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-1c7.DDS
+- name: remastered\xa_tw_3020.mdls\-1c8.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-1c8.DDS
+- name: remastered\xa_tw_3020.mdls\-1c9.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-1c9.DDS
+- name: remastered\xa_tw_3020.mdls\-1ca.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-1ca.DDS
+- name: remastered\xa_tw_3020.mdls\-62900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-62900.DDS
+- name: remastered\xa_tw_3020.mdls\-66900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-66900.DDS
+- name: remastered\xa_tw_3020.mdls\-6a900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-6a900.DDS
+- name: remastered\xa_tw_3020.mdls\-6e900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-6e900.DDS
+- name: remastered\xa_tw_3020.mdls\-72900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-72900.DDS
+- name: remastered\xa_tw_3020.mdls\-76900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-76900.DDS
+- name: remastered\xa_tw_3020.mdls\-7a900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-7a900.DDS
+- name: remastered\xa_tw_3020.mdls\-7e900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-7e900.DDS
+- name: remastered\xa_tw_3020.mdls\-82900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-82900.DDS
+- name: remastered\xa_tw_3020.mdls\-86900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-86900.DDS
+- name: remastered\xa_tw_3020.mdls\-8a900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3020.mdls\-8a900.DDS
+- name: remastered\xa_tw_3029.mdls\-1c0.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-1c0.DDS
+- name: remastered\xa_tw_3029.mdls\-1c1.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-1c1.DDS
+- name: remastered\xa_tw_3029.mdls\-1c2.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-1c2.DDS
+- name: remastered\xa_tw_3029.mdls\-1c3.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-1c3.DDS
+- name: remastered\xa_tw_3029.mdls\-1c4.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-1c4.DDS
+- name: remastered\xa_tw_3029.mdls\-1c5.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-1c5.DDS
+- name: remastered\xa_tw_3029.mdls\-1c6.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-1c6.DDS
+- name: remastered\xa_tw_3029.mdls\-1c7.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-1c7.DDS
+- name: remastered\xa_tw_3029.mdls\-1c8.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-1c8.DDS
+- name: remastered\xa_tw_3029.mdls\-1c9.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-1c9.DDS
+- name: remastered\xa_tw_3029.mdls\-1ca.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-1ca.DDS
+- name: remastered\xa_tw_3029.mdls\-62900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-62900.DDS
+- name: remastered\xa_tw_3029.mdls\-66900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-66900.DDS
+- name: remastered\xa_tw_3029.mdls\-6a900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-6a900.DDS
+- name: remastered\xa_tw_3029.mdls\-6e900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-6e900.DDS
+- name: remastered\xa_tw_3029.mdls\-72900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-72900.DDS
+- name: remastered\xa_tw_3029.mdls\-76900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-76900.DDS
+- name: remastered\xa_tw_3029.mdls\-7a900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-7a900.DDS
+- name: remastered\xa_tw_3029.mdls\-7e900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-7e900.DDS
+- name: remastered\xa_tw_3029.mdls\-82900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-82900.DDS
+- name: remastered\xa_tw_3029.mdls\-86900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-86900.DDS
+- name: remastered\xa_tw_3029.mdls\-8a900.DDS
+  method: copy
+  platform: pc
+  package: kh1_fifth
+  source:
+  - name: remastered\xa_tw_3029.mdls\-8a900.DDS
+- name: remastered\xa_aw_3000.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3000.mdls\-1c0.dds
+- name: remastered\xa_aw_3000.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3000.mdls\-1c1.dds
+- name: remastered\xa_aw_3000.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3000.mdls\-1c2.dds
+- name: remastered\xa_aw_3000.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3000.mdls\-1c3.dds
+- name: remastered\xa_aw_3000.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3000.mdls\-1c4.dds
+- name: remastered\xa_aw_3000.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3000.mdls\-1c5.dds
+- name: remastered\xa_aw_3000.mdls\-1c6.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3000.mdls\-1c6.dds
+- name: remastered\xa_aw_3000.mdls\-1c7.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3000.mdls\-1c7.dds
+- name: remastered\xa_aw_3009.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3009.mdls\-1c0.dds
+- name: remastered\xa_aw_3009.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3009.mdls\-1c1.dds
+- name: remastered\xa_aw_3009.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3009.mdls\-1c2.dds
+- name: remastered\xa_aw_3009.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3009.mdls\-1c3.dds
+- name: remastered\xa_aw_3009.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3009.mdls\-1c4.dds
+- name: remastered\xa_aw_3009.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3009.mdls\-1c5.dds
+- name: remastered\xa_aw_3009.mdls\-1c6.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3009.mdls\-1c6.dds
+- name: remastered\xa_aw_3009.mdls\-1c7.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_aw_3009.mdls\-1c7.dds
+- name: remastered\xa_ex_2010.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2010.mdls\-1c0.dds
+- name: remastered\xa_ex_2010.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2010.mdls\-1c1.dds
+- name: remastered\xa_ex_2010.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2010.mdls\-1c2.dds
+- name: remastered\xa_ex_2010.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2010.mdls\-1c3.dds
+- name: remastered\xa_ex_2010.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2010.mdls\-1c4.dds
+- name: remastered\xa_ex_2019.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2019.mdls\-1c0.dds
+- name: remastered\xa_ex_2019.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2019.mdls\-1c1.dds
+- name: remastered\xa_ex_2019.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2019.mdls\-1c2.dds
+- name: remastered\xa_ex_2019.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2019.mdls\-1c3.dds
+- name: remastered\xa_ex_2019.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2019.mdls\-1c4.dds
+- name: remastered\xa_ex_2030.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2030.mdls\-1c0.dds
+- name: remastered\xa_ex_2030.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2030.mdls\-1c1.dds
+- name: remastered\xa_ex_2030.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2030.mdls\-1c2.dds
+- name: remastered\xa_ex_2030.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2030.mdls\-1c3.dds
+- name: remastered\xa_ex_2030.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2030.mdls\-1c4.dds
+- name: remastered\xa_ex_2039.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2039.mdls\-1c0.dds
+- name: remastered\xa_ex_2039.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2039.mdls\-1c1.dds
+- name: remastered\xa_ex_2039.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2039.mdls\-1c2.dds
+- name: remastered\xa_ex_2039.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2039.mdls\-1c3.dds
+- name: remastered\xa_ex_2039.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2039.mdls\-1c4.dds
+- name: remastered\xa_ex_2040.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2040.mdls\-1c0.dds
+- name: remastered\xa_ex_2040.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2040.mdls\-1c1.dds
+- name: remastered\xa_ex_2040.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2040.mdls\-1c2.dds
+- name: remastered\xa_ex_2040.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2040.mdls\-1c3.dds
+- name: remastered\xa_ex_2040.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2040.mdls\-1c4.dds
+- name: remastered\xa_ex_2049.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2049.mdls\-1c0.dds
+- name: remastered\xa_ex_2049.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2049.mdls\-1c1.dds
+- name: remastered\xa_ex_2049.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2049.mdls\-1c2.dds
+- name: remastered\xa_ex_2049.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2049.mdls\-1c3.dds
+- name: remastered\xa_ex_2049.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2049.mdls\-1c4.dds
+- name: remastered\xa_ex_2050.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2050.mdls\-1c0.dds
+- name: remastered\xa_ex_2050.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2050.mdls\-1c1.dds
+- name: remastered\xa_ex_2050.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2050.mdls\-1c2.dds
+- name: remastered\xa_ex_2050.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2050.mdls\-1c3.dds
+- name: remastered\xa_ex_2050.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2050.mdls\-1c4.dds
+- name: remastered\xa_ex_2050.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2050.mdls\-1c5.dds
+- name: remastered\xa_ex_2050.mdls\-1c6.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2050.mdls\-1c6.dds
+- name: remastered\xa_ex_2059.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2059.mdls\-1c0.dds
+- name: remastered\xa_ex_2059.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2059.mdls\-1c1.dds
+- name: remastered\xa_ex_2059.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2059.mdls\-1c2.dds
+- name: remastered\xa_ex_2059.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2059.mdls\-1c3.dds
+- name: remastered\xa_ex_2059.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2059.mdls\-1c4.dds
+- name: remastered\xa_ex_2059.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2059.mdls\-1c5.dds
+- name: remastered\xa_ex_2059.mdls\-1c6.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2059.mdls\-1c6.dds
+- name: remastered\xa_ex_2060.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2060.mdls\-1c0.dds
+- name: remastered\xa_ex_2060.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2060.mdls\-1c1.dds
+- name: remastered\xa_ex_2060.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2060.mdls\-1c2.dds
+- name: remastered\xa_ex_2060.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2060.mdls\-1c3.dds
+- name: remastered\xa_ex_2060.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2060.mdls\-1c4.dds
+- name: remastered\xa_ex_2060.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2060.mdls\-1c5.dds
+- name: remastered\xa_ex_2069.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2069.mdls\-1c0.dds
+- name: remastered\xa_ex_2069.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2069.mdls\-1c1.dds
+- name: remastered\xa_ex_2069.mdls\-1c2.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2069.mdls\-1c2.dds
+- name: remastered\xa_ex_2069.mdls\-1c3.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2069.mdls\-1c3.dds
+- name: remastered\xa_ex_2069.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2069.mdls\-1c4.dds
+- name: remastered\xa_ex_2069.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2069.mdls\-1c5.dds
+- name: remastered\xa_ex_2070.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2070.mdls\-1c0.dds
+- name: remastered\xa_ex_2070.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2070.mdls\-1c1.dds
+- name: remastered\xa_ex_2070.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2070.mdls\-1c4.dds
+- name: remastered\xa_ex_2070.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2070.mdls\-1c5.dds
+- name: remastered\xa_ex_2079.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2079.mdls\-1c0.dds
+- name: remastered\xa_ex_2079.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2079.mdls\-1c1.dds
+- name: remastered\xa_ex_2079.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2079.mdls\-1c4.dds
+- name: remastered\xa_ex_2079.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2079.mdls\-1c5.dds
+- name: remastered\xa_ex_2080.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2080.mdls\-1c0.dds
+- name: remastered\xa_ex_2080.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2080.mdls\-1c1.dds
+- name: remastered\xa_ex_2080.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2080.mdls\-1c4.dds
+- name: remastered\xa_ex_2080.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2080.mdls\-1c5.dds
+- name: remastered\xa_ex_2089.mdls\-1c0.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2089.mdls\-1c0.dds
+- name: remastered\xa_ex_2089.mdls\-1c1.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2089.mdls\-1c1.dds
+- name: remastered\xa_ex_2089.mdls\-1c4.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2089.mdls\-1c4.dds
+- name: remastered\xa_ex_2089.mdls\-1c5.dds
+  method: copy
+  platform: pc
+  package: kh1_fourth
+  source:
+  - name: remastered\xa_ex_2089.mdls\-1c5.dds
+- name: remastered\menu\md_dic_heart.bin\-1400.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-1400.dds
+- name: remastered\menu\md_dic_heart.bin\-16800.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-16800.dds
+- name: remastered\menu\md_dic_heart.bin\-1b800.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-1b800.dds
+- name: remastered\menu\md_dic_heart.bin\-1cc00.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-1cc00.dds
+- name: remastered\menu\md_dic_heart.bin\-1f400.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-1f400.dds
+- name: remastered\menu\md_dic_heart.bin\-25800.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-25800.dds
+- name: remastered\menu\md_dic_heart.bin\-26c00.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-26c00.dds
+- name: remastered\menu\md_dic_heart.bin\-2e400.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-2e400.dds
+- name: remastered\menu\md_dic_heart.bin\-30c00.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-30c00.dds
+- name: remastered\menu\md_dic_heart.bin\-32000.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-32000.dds
+- name: remastered\menu\md_dic_heart.bin\-3c00.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-3c00.dds
+- name: remastered\menu\md_dic_heart.bin\-44c00.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-44c00.dds
+- name: remastered\menu\md_dic_heart.bin\-6400.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-6400.dds
+- name: remastered\menu\md_dic_heart.bin\-7800.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-7800.dds
+- name: remastered\menu\md_dic_heart.bin\-8c00.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-8c00.dds
+- name: remastered\menu\md_dic_heart.bin\-a000.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_dic_heart.bin\-a000.dds
+- name: remastered\menu\md_memo.bin\-0.dds
+  method: copy
+  platform: pc
+  package: kh1_third
+  source:
+  - name: remastered\menu\md_memo.bin\-0.dds

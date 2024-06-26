@@ -1,4 +1,4 @@
-# EloraKH1-HeartlessColors-
+# EloraKH1-HeartlessColors
 Edits a few Heartless colors to how I like them. Most of them use their original PS2 colors, but some are left with their final mix colors, and some are edited slightly. Uses's DaniKH1's mod as a base: https://www.nexusmods.com/kingdomheartsfinalmix/mods/8
 
 ## Changed Heartless
